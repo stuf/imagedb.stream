@@ -1,0 +1,12 @@
+{
+  "fileGlobChunkSize": 8,
+  "concurrency": 4,
+  "fileGlob": "**/*.(CR2|DNG|cr2|dng)",
+  "paths": [
+    "/Users/stefan.rimaila/Pictures/2019/"
+  ],
+  "mongo": {
+    "host": "mongodb://localhost",
+    "dbName": "imagedb"
+  }
+}
